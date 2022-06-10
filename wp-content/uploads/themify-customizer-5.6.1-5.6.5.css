@@ -1,0 +1,40 @@
+/* Themify Customize Styling */
+:root {	
+	--theme_accent: #026e00;
+	--theme_accent_semi: #026e00; 
+}
+body #site-logo a img {		width: 30px;
+	height: 40px; 
+}
+#site-description {	display: none; 
+}
+.post-meta {	background: none;
+	background-color: rgba(0,0,0,0.00);
+	color: rgba(0,0,0,0.00); 
+}
+.post-meta a {	background: none;
+	background-color: rgba(0,0,0,0.00);
+	color: rgba(0,0,0,0.00); 
+}
+.post-date, .loops-wrapper.list-post .post .post-date, .single #pagewrap .post-content .post-date {	background: none;
+	background-color: rgba(0,0,0,0.00);background-image: none;
+	background-repeat: repeat;
+	color: rgba(230,0,0,0.00); 
+}
+@media screen and (max-width: 1024px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 30px;
+	height: 40px; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 30px;
+	height: 40px; 
+}
+ }@media screen and (max-width: 600px) { /* Themify Customize Styling */
+body #site-logo a img {		width: 30px;
+	height: 40px; 
+}
+ }
+/* Themify Custom CSS */
+.entry-date  { 
+  display: none; 
+}
